@@ -6,7 +6,7 @@ title: ""
 
 ## About
 
-I am a data professional specializig in a broad range of human-centered business intelligence and analytics solutions.  I have a master's degree in math, taught college courses for close to 15 years, worked as a practicing BI developer and data scientist for 2 years, and was most recently the initial and sole faculty for an associate's degree program in data analytics.  
+I am a data professional specializing in a broad range of human-centered business intelligence and analytics solutions.  I have a master's degree in math, taught college courses for close to 15 years, worked as a practicing BI developer and data scientist for 2 years, and was most recently the initial and sole faculty for an associate's degree program in data analytics.  
 
 I'm actively looking for new opportunities.
 
