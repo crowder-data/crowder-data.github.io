@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 ---
 
-# Welcome
-
 I am a data analytics professional focused on business intelligence, data visualization, and analytics solutions.
 
 ## Projects
@@ -23,11 +21,8 @@ Database design, dimensional modeling, and analytics engineering projects.
 
 ## Skills
 
-- Power BI
-- DAX
-- Power Query
-- SQL
-- Python
-- Data Modeling
-- Microsoft Fabric
-- Azure Analytics
+- Power BI (DAX, Power Query)
+- SQL (T-SQL)
+- Data Modeling (OLTP, OLAP)
+- Python (NumPy, Pandas)
+- Learning Microsoft Fabric
