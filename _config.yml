@@ -1,0 +1,11 @@
+remote_theme: "mmistakes/minimal-mistakes"
+
+title: "Crowder Data"
+name: "Nathan Crowder"
+description: "Data Analytics | Business Intelligence | Data Visualization"
+
+url: "https://crowder-data.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-include-cache
