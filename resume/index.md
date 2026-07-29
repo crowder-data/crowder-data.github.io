@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /resume/
-show_title: false
+title: fuck you
 ---
 
 <p>DEBUG TITLE: {{ page.title }}</p>
