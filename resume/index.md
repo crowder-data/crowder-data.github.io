@@ -1,10 +1,8 @@
 ---
 layout: single
 permalink: /resume/
-title: fuck you
+title: 
 ---
-
-<p>DEBUG TITLE: {{ page.title }}</p>
 
 ### Currently:
 
