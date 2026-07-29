@@ -1,5 +1,4 @@
 ---
-title: Resume
 layout: single
 permalink: /resume/
 show_title: false
