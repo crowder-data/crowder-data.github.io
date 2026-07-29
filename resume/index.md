@@ -4,6 +4,8 @@ permalink: /resume/
 show_title: false
 ---
 
+<p>DEBUG TITLE: {{ page.title }}</p>
+
 ### Currently:
 
 - Strengthening Python visualization skills and API knowledge by building out several small scale StreamLit apps of personal interest
