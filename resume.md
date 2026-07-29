@@ -1,3 +1,9 @@
+---
+title: Resume
+layout: single
+permalink: /resume/
+---
+
 ### Currently:
 
 - Strengthening Python visualization skills and API knowledge by building out several small scale Stream Lit apps of personal interest
