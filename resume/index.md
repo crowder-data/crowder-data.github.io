@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /resume/
-title: ""
 ---
 
 ### Currently:
