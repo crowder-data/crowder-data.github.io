@@ -5,6 +5,9 @@ title: "Nathan Crowder"
 name: "Nathan Crowder"
 description: "Data Professional"
 
+titles_from_headings:
+  enabled: false
+
 url: "https://crowder-data.github.io"
 baseurl: ""
 
